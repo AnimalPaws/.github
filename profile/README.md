@@ -75,7 +75,7 @@ El equipo de desarrollo representa los miembros responsables de realizar el proy
 
 1. [Angie Juliana Lugo](https://github.com/anonimo223)
 2. [Angie Daniela Tapiero](https://github.com/angie932)
-3. Jorge Iván Pito
+3. [Jorge Iván Pito](https://github.com/Jorgeivanpp)
 4. [Julian Andrés Lozada](https://github.com/Ex1Kx)
 5. [Cristian Andrés Penagos](https://github.com/SandGuru)
 6. [Juan Camilo Cruz](https://github.com/camilocruz07)
