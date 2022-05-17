@@ -79,7 +79,3 @@ El equipo de desarrollo representa los miembros responsables de realizar el proy
 4. [Julian Andrés Lozada](https://github.com/Ex1Kx)
 5. [Cristian Andrés Penagos](https://github.com/SandGuru)
 6. [Juan Camilo Cruz](https://github.com/camilocruz07)
-
-## Documentación relevante ##
-
-- (...)
